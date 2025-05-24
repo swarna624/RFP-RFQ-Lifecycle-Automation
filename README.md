@@ -1,6 +1,6 @@
-# RFP-RFQ-Lifecycle-Automation
+# AI-Powered RFP/RFQ Lifecycle Automation
 AI-powered document management system automating RFP, RFQ, Proposal, and Quotation creation using GPT-4. Features multi-agent architecture, real-time collaboration, and PDF export. Built with React, TypeScript, and Tailwind CSS. Streamlines document workflow for business teams.
-# Document Management System
+# Document management system
 
 A modern document management system for creating and managing RFP, Proposal, RFQ, and Quotation documents.
 
